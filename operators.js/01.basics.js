@@ -17,3 +17,4 @@ const numberlist =
  number > 60 ? "Even" : "Odd"
 
  console.log(numberlist);
+// Ouput:Even
